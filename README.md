@@ -1,2 +1,1 @@
-# PreCourseHenry
-Este es un repositorio del modulo 2 del prepcourse henry
+Esta es una prueba de como clonar un repositorio de github y desacargarlo en mi computadora.
